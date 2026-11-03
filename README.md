@@ -18,10 +18,10 @@ A simple Arduino project that detects nearby obstacles using an IR sensor and gi
 4. The buzzer beeps whenever an obstacle is detected.
 
 # Output
-"IR Sensor with Buzzer Output" (./irandbuzzer.jpeg)
+![IR Sensor with Buzzer Output](./irandbuzzer.jpeg)
 
 # Arduino Code
-"View Arduino Code" (./irbuzz.ino)
+[View Arduino Code](./irbuzz.ino)
 
 #  Learning Outcome
 Learned how to interface an IR sensor and buzzer with Arduino, read digital inputs, and create an audio alert system.
